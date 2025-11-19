@@ -1,3 +1,4 @@
 FROM almalinux:9
 LABEL course="devops" \
-        trainer="Rajkumar"
+        trainer="Rajkumar" \
+        author="rajkumarmanda@outlook.com"
