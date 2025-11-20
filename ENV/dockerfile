@@ -2,3 +2,4 @@ FROM almalinux:9
 ENV NAME="Raj" \
     COURSE="Docker" \
     TINE="10HRS"
+CMD ["sleep", "1000"]
